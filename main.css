@@ -1,0 +1,34 @@
+body{
+    font-family: Verdana, sans-serif;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+p{
+    text-align: justify;
+}
+
+h3{
+    color: burlywood;
+}
+
+img{
+    margin-left: 0;
+    width: 300px;
+    height: auto;
+}
+
+ .name{
+    margin-left: 20px;
+    font-family: 'Satisfy', cursive;
+	font-size: 40px;
+}
+
+.links{
+    font-size: 14px;
+}
+
+.code{
+    font-style: italic;
+    background
+}
